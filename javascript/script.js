@@ -2,7 +2,7 @@ $(function(){
     
     let wasAnimated = false ; 
     
-    $(".navbar a, footer a , .button-link").on("click" , function(event){
+    $(".navbar a:not('.dropdownSelect'), footer a , .button-link").on("click" , function(event){
         
         event.preventDefault() ; 
         const hash = this.hash ; 

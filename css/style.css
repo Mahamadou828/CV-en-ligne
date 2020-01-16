@@ -145,6 +145,8 @@ section .heading h2
     border-radius: 3px ;
 }
 
+
+
 /*Skills*/
 
 #skills
@@ -609,12 +611,26 @@ footer .glyphicon:hover
     letter-spacing: 4px ;
 }
 
-.navbar-nav li a
+.buttonChoice
+{
+    font-size: 18px;
+    padding-left: 0px;
+    padding-top: 2px;
+}
+
+.navbar-nav li a , .buttonChoice
 {
     color: #fff !important ;
 }
 
-.navbar-nav li a:hover
+
+.dropdown-menu
+{
+    color: #d82c2e !important;
+    background-color: #333333;
+}
+
+.navbar-nav li a:hover , .buttonChoice:hover
 {
     border-radius: 3px ; 
     color: #d82c2e !important ;
