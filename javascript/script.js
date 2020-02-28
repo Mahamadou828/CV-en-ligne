@@ -2,7 +2,7 @@ $(function(){
     
     let wasAnimated = false ; 
     
-    $(".navbar a:not('.dropdownSelect'), footer a , .button-link").on("click" , function(event){
+    $(".navbar a:not('.dropdownSelect'), footer a , .button-link , .portfolio").on("click" , function(event){
         
         event.preventDefault() ; 
         const hash = this.hash ; 
@@ -11,7 +11,7 @@ $(function(){
         
     }) ;
     
-    $('.button2').click ( function(){
+    $('.profile-button').click ( function(){
         
         if (!wasAnimated) 
             {
@@ -62,13 +62,6 @@ $(function(){
         
         
     }) ;
-
-    $(".card").mouseover(function(e){   
-       $(e.currentTarget).find(".hide").fadeIn(100) ;
-    }) ;
-
-    $(".card").mouseleave(function(e){
-        $(e.currentTarget).find(".hide").fadeOut("fast") ;
-    }) ;
+    
  
 }) ;

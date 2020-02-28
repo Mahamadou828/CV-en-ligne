@@ -1,0 +1,65 @@
+<div class='col-md-6 col-lg-4 col-sm-6'>
+                    <div class='card'>
+                        <img src='image-cv/back-end.png' alt=''>
+                        <h2>Developpement Back-end </h2>
+                        <div class='hide'>
+                            <p>Connaissance du language PHP ainsi que de ces framework Laravel , Symphony. Ainsi que de la manipulation des base de donne en SQL</p>
+                            <a href='#portfolio' class='button-link'>Voir portfolio </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class='col-md-6 col-lg-4 col-sm-6'>
+                    <div class='card'>
+                        <img src='image-cv/front-end.png' alt=''>
+                        <h2>Developpement Front-end</h2>
+                        <div class='hide'>
+                            <p>Connaissance de Javascript ainsi que des framework Jquery , React.js</p>
+                            <a href='#portfolio' class='button-link'>Voir portfolio</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class='col-md-6 col-lg-4 col-sm-6'>
+                    <div class='card'>
+                        <img src='image-cv/html-css.png' alt=''>
+                        <h2>Creation de site statique</h2>
+                        <div class='hide'>
+                            <p>HTML5/CSS3 et utilisation des frameworks bootstrap</p>
+                            <a href='#portfolio' class='button-link'>Voir portfolio</a>
+                        </div>
+                    </div>
+                </div>
+                <!--
+                 <div class='col-md-6 col-lg-4 col-sm-6'>
+                    <div class='card'>
+                        <img src='image-cv/db.png' alt=''>
+                        <h2>Base de donnee</h2>
+                        <div class='hide'>
+                            <p>Mongodb , SQL</p>
+                            <a href='#portfolio' class='button-link'>Voir portfolio</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class='col-md-6 col-lg-4 col-sm-6'>
+                    <div class='card'>
+                        <img src='image-cv/mobile.png' alt=''>
+                        <h2>Developpement mobile</h2>
+                        <div class='hide'>
+                            <p>React Native , Kotlin</p>
+                            <a href='#portfolio' class='button-link'>Voir portfolio</a>
+                        </div>
+                    </div>
+                </div>
+                -->
+                <div class='col-md-6 col-lg-4 col-sm-6'>
+                    <div class='card'>
+                        <img src='image-cv/langue.png' alt=''>
+                        <h2>Langue</h2>
+                        <div class='hide'>
+                            <p>Maitrise du russe , de l'anglais et du francais</p>
+                            <a href='#portfolio' class='button-link'>Voir portfolio</a>
+                        </div>
+                    </div>
+                </div>

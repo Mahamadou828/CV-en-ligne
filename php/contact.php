@@ -2,7 +2,7 @@
 
     $userData = array ("firstname" => " " , "name" => " " , "phone" => " " , "message" => " " , "firstnameERROR" => " " , "nameERROR" => " " , "emailERROR" => " " , "phoneERROR" => " " , "messageERROR" => " " ,"isSuccess"=>false ) ; 
 
-    $emailTo = "opmadou@gamil.com" ; 
+    $emailTo = "opmadou@gmail.com" ; 
 
     if ($_SERVER["REQUEST_METHOD"] == "POST")
     {
